@@ -106,7 +106,7 @@ This tutorial walks you through the process of creating a Virtual Machine (VM) i
 
 <p>
   
-![image](https://github.com/user-attachments/assets/e72a5c0f-9137-4ca3-8598-e612378f0d2b)
+![image](https://github.com/user-attachments/assets/e72a5c0f-9137-4ca3-8598-e612378f0d2b) ![image](https://github.com/user-attachments/assets/72ba339d-7491-4601-bb7f-d8a35c9e72d2)
 
 
 </p>
