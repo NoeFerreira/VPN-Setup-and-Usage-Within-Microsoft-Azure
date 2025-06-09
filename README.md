@@ -33,7 +33,7 @@ This tutorial walks you through the process of creating a Virtual Machine (VM) i
 
 <p>
   
-## Step 1: Create and Configure the Azure VM
+## Step 1: Create and Configure the Virtual Machine
 
 ![image](https://github.com/user-attachments/assets/df48a70c-9386-4d96-967c-462f23352dd9)
 
@@ -55,12 +55,12 @@ This tutorial walks you through the process of creating a Virtual Machine (VM) i
 </p>
 <br />
 
-## Step 2: Record IP Address from the Azure VM
+## Step 2: Record IP Address from the Virtual Machine
 ![image](https://github.com/user-attachments/assets/3d1568fd-ed9f-4b7e-9411-c9b2083cb1f6)
 
 <p>
   
-- Logged into the Azure VM using Remote Desktop.
+- Logged into the VM using Remote Desktop.
 - Opened a browser inside the VM and visited
      - [What is My IP Address](https://whatismyipaddress.com/).
 - Recorded the IP address associated with the VM.
